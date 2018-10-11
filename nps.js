@@ -1,4 +1,4 @@
-// NPS 
+// Adapted from https://api.jquery.com/jquery.getjson/ which I found form googling "jquery json"
 $.getJSON( "https://sheetsu.com/apis/v1.0su/18195639e36f", function( data ) {
   var scores = []
   $.each( data, function( key, val ) {
