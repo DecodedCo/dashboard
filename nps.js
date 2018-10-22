@@ -11,7 +11,7 @@ $.getJSON( "https://sheetsu.com/apis/v1.0su/18195639e36f", function( data ) {
 
 });
 
-// Copied directly From https://gist.github.com/mzabriskie/1ee9a8865d70e900f4e3
+// Copied directly from https://gist.github.com/mzabriskie/1ee9a8865d70e900f4e3
 function nps(scores) {
   var promoters = 0;
   var detractors = 0;
