@@ -1,4 +1,4 @@
-// change the variables here to asseble query URL to get the weather data from the OpenWeatherMao API
+// change the variables here to asseble query URL to get the weather data from the OpenWeatherMap API
 var appId = '7d2322eec4938a6644c85984201aec46'
 var weatherLocation = 'London,uk'
 var weatherApiUrl= 'https://api.openweathermap.org/data/2.5/weather'
