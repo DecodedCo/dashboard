@@ -5,7 +5,11 @@ This repo helps attendees get started with their Dashboard. It includes the foll
 
 ## Quote
 
-Add an inspirational quote to your Dashboard.
+Add an inspirational quote to your dashboard.
+
+## Stock
+
+Add stock price to your dashboard.
 
 ## Weather
 
