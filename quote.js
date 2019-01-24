@@ -1,5 +1,5 @@
 // Select a random quote from data
-var rand = data.quotes[Math.floor(Math.random() * data.quotes.length)];
+var rand = json.quotes[Math.floor(Math.random() * json.quotes.length)];
 // Capture the random quote text in a new variable called quoteText
 var quoteText = rand.quote;
 // Capture the random quote author in a new variable called authorText
